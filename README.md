@@ -1,0 +1,2 @@
+# flatris
+Game of tetris
